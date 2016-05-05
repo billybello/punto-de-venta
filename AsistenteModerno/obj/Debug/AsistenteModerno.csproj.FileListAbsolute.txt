@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2013\Projects\AsistenteModerno\AsistenteModerno\bin\Debug\AsistenteModerno.exe.config
+c:\users\user\documents\visual studio 2013\Projects\AsistenteModerno\AsistenteModerno\bin\Debug\AsistenteModerno.exe
+c:\users\user\documents\visual studio 2013\Projects\AsistenteModerno\AsistenteModerno\bin\Debug\AsistenteModerno.pdb
+c:\users\user\documents\visual studio 2013\Projects\AsistenteModerno\AsistenteModerno\obj\Debug\AsistenteModerno.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\AsistenteModerno\AsistenteModerno\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2013\Projects\AsistenteModerno\AsistenteModerno\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2013\Projects\AsistenteModerno\AsistenteModerno\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2013\Projects\AsistenteModerno\AsistenteModerno\obj\Debug\AsistenteModerno_MarkupCompile.cache
+c:\users\user\documents\visual studio 2013\Projects\AsistenteModerno\AsistenteModerno\obj\Debug\AsistenteModerno.g.resources
+c:\users\user\documents\visual studio 2013\Projects\AsistenteModerno\AsistenteModerno\obj\Debug\AsistenteModerno.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\AsistenteModerno\AsistenteModerno\obj\Debug\AsistenteModerno.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\AsistenteModerno\AsistenteModerno\obj\Debug\AsistenteModerno.exe
+c:\users\user\documents\visual studio 2013\Projects\AsistenteModerno\AsistenteModerno\obj\Debug\AsistenteModerno.pdb

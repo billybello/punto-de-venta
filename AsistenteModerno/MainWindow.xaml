@@ -16,6 +16,7 @@
             <TextBlock Height="100" TextWrapping="Wrap" Text="TextBlock" Width="100"/>
         </TabControl>
         <ComboBox HorizontalAlignment="Left" Margin="322,80,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="178,141,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>

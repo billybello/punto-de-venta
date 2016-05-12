@@ -2,19 +2,13 @@
 
 AsistenteModerno/AsistenteModerno.csproj.user
 
-AsistenteModerno/bin/Debug/AsistenteModerno.exe
+/AsistenteModerno/bin/*
 
-AsistenteModerno/bin/Debug/AsistenteModerno.pdb
-AsistenteModerno/bin/Debug/AsistenteModerno.vshost.exe
-AsistenteModerno/obj/Debug/AsistenteModerno.csproj.FileListAbsolute.txt
-AsistenteModerno/obj/Debug/AsistenteModerno.csproj.GenerateResource.Cache
-AsistenteModerno/obj/Debug/AsistenteModerno.csprojResolveAssemblyReference.cache
-AsistenteModerno/obj/Debug/AsistenteModerno.exe
-AsistenteModerno/obj/Debug/AsistenteModerno.g.resources 
-AsistenteModerno/obj/Debug/AsistenteModerno.pdb
-AsistenteModerno/obj/Debug/AsistenteModerno_MarkupCompile.cache
-AsistenteModerno/obj/Debug/AsistenteModerno_MarkupCompile.i.cache
-AsistenteModerno/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
-AsistenteModerno/obj/Debug/MainWindow.baml
-AsistenteModerno/obj/Debug/MainWindow.g.cs
-AsistenteModerno/obj/Debug/MainWindow.g.i.cs
+AsistenteModerno/bin
+
+/AsistenteModerno/obj/*
+
+AsistenteModerno/bin
+
+
+
